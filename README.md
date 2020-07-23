@@ -50,7 +50,7 @@ To get scheme details
 
 GET http://localhost:8080/api/v1/schemes/141926
 
-Authorization: <jwt-received-from-authentication-response>
+Authorization: `jwt-received-from-authentication-response`
 
 Response:
 ```
@@ -66,7 +66,7 @@ To add a new scheme
 
 POST http://localhost:8080/api/v1/schemes/add
 
-Authorization: <jwt>
+Authorization: `jwt-received-from-authentication-response`
     
 Body:
 ```    
