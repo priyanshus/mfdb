@@ -1,7 +1,7 @@
 # mfdb
 A dummy Rest application to learn test automation.
 
-To run the app, download the jar file available from https://github.com/priyanshus/mfdb/releases/download/v1.0.0/mfdb-1.0.0.jar. 
+To run the app, download the jar file available at https://github.com/priyanshus/mfdb/releases/download/v1.0.0/mfdb-1.0.0.jar. 
 
 Use `java -jar mfdb-1.0.0.jar` to start the server. The server will be running on 8080 port.
 
